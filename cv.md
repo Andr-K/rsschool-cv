@@ -252,3 +252,10 @@ a:hover {
   </body>
 </html>
 ```
+
+## Education
+
+* Maritime University of Szczecin 2011 - 2015 | Mechanics and mechanical engineering
+* RS-School
+* Internetingishard course
+
