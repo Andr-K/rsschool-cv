@@ -259,3 +259,10 @@ a:hover {
 * RS-School
 * Internetingishard course
 
+## Languages
+
+* English - C1
+* Russian - Native
+* Polish - C2
+
+I was practicing English language while working as a seaman as the crews on the vesseles consisted of people from all over the world. I have English speaking friends. 95% of the YouTube channels I watch are in English. At my current place of employment the team communicates in English.
