@@ -12,3 +12,11 @@ My working experience is not related to programming but it teached me usefull sk
 3. When I was a marketing manager, I found out what drives people minds the most and how to manage a team.
 
 On each of these positions it was essential to assimilate a lot of new information in a timely manner and utilise it propperly. It is hard but also very interesting and fun for me.
+
+## Skills
+
+* HTML
+* CSS
+* GIT
+* GitHub
+* VScode
